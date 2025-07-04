@@ -4,6 +4,10 @@
 
 This project implements an advanced food recommendation system that demonstrates **four distinct approaches** to similarity search and conversational AI. Using a rich food dataset with detailed nutritional information, ingredients, cooking methods, and taste profiles, the system provides intelligent food recommendations through vector similarity search powered by FAISS and natural language processing with Llama 3.2 via Ollama.
 
+### This project is heavily inspired from IBM sources out of this highly recommended Coursera online course:
+[IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai)
+
+
 ## Architecture
 
 ### Core Components
@@ -364,4 +368,4 @@ The complete system has been tested with:
 
 ## License
 
-This project is part of an IBM Skills Network educational lab and is intended for learning purposes.
+The **data**  is part of an IBM Skills Network educational lab and is intended for learning purposes.
